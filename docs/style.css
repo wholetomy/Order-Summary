@@ -157,3 +157,18 @@ body {
     transition: .5s;
     color: var(--dark-blue-blue);
 }
+
+@media (max-width: 500px)
+{
+    .container {
+        width: 340px;
+    }
+
+    .container-other {
+        margin-top: 15px;
+        margin-left: 25px;
+        margin-right: 25px;
+        margin-bottom: 30px;
+    }
+    
+}
