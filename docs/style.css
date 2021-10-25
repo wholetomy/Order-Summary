@@ -16,7 +16,7 @@ body {
     background-repeat: repeat-x;
     background-color: var(--pale-blue);
     font-family: 'Red Hat Display', sans-serif;
-    background-image: url(images/pattern-background-desktop.svg);
+    background-image: url(../images/pattern-background-desktop.svg);
 }
 
 .container-all {
